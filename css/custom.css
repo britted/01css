@@ -1,1 +1,31 @@
-/* custom css */
+body{
+	font-family: Lucida, Lucida, monospace;
+}
+h1{
+	text-align: center;
+	color: black;
+	font-family: Lucida, Lucida, monospace;
+}
+a{
+	text-decoration: none;
+
+}
+li{
+	float: left;
+	list-style-type: none;
+}
+.one{
+	width: 28%;
+	padding: 20px 20px 20px 20px;
+	background-color: #99CCFF;
+}
+.two{
+	width:28%;
+	padding: 20px 20px 20px 20px;
+	background-color: #99FFFF;
+}
+.three{
+	width:28%;
+	padding: 20px 20px 20px 20px;
+	background-color: #99CCFF;
+}
